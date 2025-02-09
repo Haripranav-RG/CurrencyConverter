@@ -16,3 +16,6 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
+
+## API Documentation
+API documentation PDF can be found in the "API_Doc.pdf" file in the project root folder.
