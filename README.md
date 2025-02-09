@@ -1,5 +1,3 @@
-# This repo is archived
-
 # Currency Converter
 
 ## Requirements
